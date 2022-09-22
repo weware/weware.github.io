@@ -847,7 +847,7 @@ ol {
 .header-area.sticky {
     -webkit-transition-duration: 500ms;
     transition-duration: 500ms;
-    background-color: #d7dfef;
+    background-color: #fff;
     box-shadow: 0 3px 15px rgba(0, 0, 0, 0.1);
     border-bottom: none;
 }
